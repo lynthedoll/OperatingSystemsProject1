@@ -1,4 +1,14 @@
-/* enhanced_shell.c */
+/*
+ * enhanced_shell.c
+ * Project 1: Quash - A Simple Command Shell
+ * Authors: Caitlyn Lynch and Kristian Morgan
+ * Course: Operating Systems CSCI-401
+ *
+ * Description:
+ * A custom shell implementation with support for built-in commands,
+ * external commands, background processes, signal handling, and more.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
